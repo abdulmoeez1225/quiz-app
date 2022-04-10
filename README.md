@@ -1,3 +1,7 @@
+# Site url on github pages
+
+Open [https://abdulmoeez1225.github.io/quiz-app](https://abdulmoeez1225.github.io/quiz-app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
