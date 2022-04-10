@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/quiz-app/static/js/main.aefca9cc.js",
+    "static/media/cover-image.jpg": "/quiz-app/static/media/cover-image.c22d6ef8eac21c1807d4.jpg",
+    "index.html": "/quiz-app/index.html",
+    "main.aefca9cc.js.map": "/quiz-app/static/js/main.aefca9cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aefca9cc.js"
+  ]
+}
